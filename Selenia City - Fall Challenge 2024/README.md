@@ -1,0 +1,1 @@
+I've decided to participate to the CodeInGame Challenge 2024, i've coded in Rust (1 month after i've learned it). Final: 734/3970
